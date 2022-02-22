@@ -4,7 +4,7 @@
 - 📫 How to reach me: Use my email nathan.lapak@gmail.com or on my github profile @NateLapak or https://github.com/NateLapak.
 
 
-Check out my projects either in my repository or by clicking one of my pinned projects below. I think that my personal website, the handwritten digit and my pong-game showcase my abilities the best.
+Check out my projects either in my repositories or by clicking one of my pinned projects below. I think that my personal website, the handwritten digit and my pong-game showcase my abilities the best.
 
 <!---
 Hey there, my name is Nathan Lapak and I am currently a senior attending J.H Picard high school. I would like to graduate as a comp sci major in university and work in tech. I 
