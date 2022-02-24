@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Nathan Lapak and this is my personal github page.
+<div align="center">
+  <h1> Hi, I'm Nathan Lapak </h1>
+</div>
+
+- 👋 Welcome to my personal github page!
 - 👀 I’m interested in computer science, mathematics, playing guitar and piano, staying active and spending time with friends and family.
 - 🌱 I’m currently learning app development and trying to learn ML/AI.
 - 📫 How to reach me: Use my email nathan.lapak@gmail.com or on my github profile @NateLapak or https://github.com/NateLapak.
