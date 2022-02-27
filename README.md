@@ -4,7 +4,7 @@
 
 - 👋 Welcome to my personal github page!
 - 👀 I’m interested in Mathematics, Computer Science, Mobile and Web development, ML & AI and Game development.
-- 👀 In my free time, I play sports like basketball, spend time with friends and family and play on my guitar or piano.
+- 👀 In my free time, I like staying active, spending time with friends and family and playing on my guitar or piano.
 - 🌱 I’m currently learning IOS development and continuing to learn about different ML/AI topics.
 - 📫 How to reach me: Use my email nathan.lapak@gmail.com or on my github profile @NateLapak or https://github.com/NateLapak.
 
