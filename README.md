@@ -7,6 +7,7 @@
 - 👀 In my free time, I like staying active, spending time with friends and family and playing on my guitar or piano.
 - 🌱 I’m currently learning IOS development and continuing to learn about different ML/AI topics.
 - 📫 How to reach me: Use my email nathan.lapak@gmail.com or on my github profile @NateLapak or https://github.com/NateLapak.
+- 📫 I am also available on different coding practice sites like HackerRank (Username: NateLapak12) and LeetCode (
 
 
 Check out my projects either in my repositories or by clicking one of my pinned projects below. My personal website, handwritten digits using neural networks and 
