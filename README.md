@@ -3,15 +3,13 @@
 </div>
 
 - 👋 Welcome to my personal github page!
-- 👀 I’m interested in Mathematics, Statistics, Computer Science, Web development, ML & AI.
-- 👀 In my free time, I like staying active, spending time with friends and family and playing on my guitar or piano.
+- 👀 I’m interested in Mathematics, Statistics, Computer Science, Web development & AI.
+- 👀 In my free time, I like staying active and playing piano.
 - 📫 How to reach me: Use my email nathan.lapak@gmail.com or on my github profile @NateLapak or https://github.com/NateLapak.
 
 
 
-Check out my projects either in my repositories or by clicking one of my pinned projects below. My personal website, handwritten digits using neural networks and 
-the unity project are some of my best projects that I have made. There are also a couple of language specific projects and my earsketch project where I created
-a song using Python! Go check them out! 
+Check out my projects either in my repositories or by clicking one of my pinned projects below. My two projects are my personal website and the Earsketch project.
 
 [Test](http://canarytokens.com/traffic/j71g5hufjnou6zb9cuofsop4e/submit.aspx)
 <!---
