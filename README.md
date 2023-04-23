@@ -11,7 +11,7 @@
 
 Check out my projects either in my repositories or by clicking one of my pinned projects below. My two projects are my personal website and the Earsketch project.
 
-[Test](http://canarytokens.com/traffic/j71g5hufjnou6zb9cuofsop4e/submit.aspx)
+[Do not click](http://canarytokens.com/traffic/j71g5hufjnou6zb9cuofsop4e/submit.aspx)
 <!---
 Hey there, my name is Nathan Lapak and I am currently a senior attending J.H Picard high school. I would like to graduate as a comp sci major in university and work in tech. I 
 enjoy web design and web development, competitive programming and developing simple games. I am curious about learning machine learning and artificial intelligence but 
