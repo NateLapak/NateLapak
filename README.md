@@ -7,5 +7,13 @@
 - 📫 How to reach me: Message me on Linkedin or nathan.lapak@gmail.com.
 - Check out my website, nathanlapak.ca, to view a portfolio of my projects.
 
+<h2>Technologies</h2>
+<ul>
+  <li>Frontend: React, Svelte, Tailwind, Bootstrap</li>
+  <li>Backend: Flask, SvelteKit</li>
+  <li>Database: PostgreSQL</li>
+  <li>Other: NextJS</li>
+</ul>
+
 Check out my projects in my repositories or by clicking one of my pinned projects below. 
 
