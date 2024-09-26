@@ -1,5 +1,6 @@
 <div align="center">
   <h1> Hi, I'm Nathan Lapak</h1>
+  <h4>This is my main github account. My school account is here: https://github.com/nlapak</h4>
 </div>
 
 - 👋 I am studying for a Bachelor of Science in Computer Science at the University of Alberta.
