@@ -3,7 +3,6 @@
   <h4>This is my main github account. My school account is here: https://github.com/nlapak</h4>
 </div>
 
-<br/>
 <h2>Things about me</h2>
 - I am pursuing a BSc Specialization in Computing Science at the University of Alberta. <br/>
 - I’m interested in Software development, Computer Architecture and Operating Systems. <br/>
