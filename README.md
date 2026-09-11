@@ -1,6 +1,7 @@
 <div align="center">
   <h1> Hi, I'm Nathan Lapak</h1>
   <h4>This is my main github account. My school account is here: https://github.com/nlapak</h4>
+  <h4>Projects and more about me on my personal portfolio: https://nathanlapak.ca</h4>
 </div>
 
 <h2>Things about me</h2>
